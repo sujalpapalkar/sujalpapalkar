@@ -1,100 +1,106 @@
 # Hi, I'm Sujal Papalkar 👋  
-Full Stack Developer | MERN | Next.js | Java | AI-Powered Applications  
+**Full Stack Developer | MERN | Next.js | Java | AI-Powered Applications**
 
-🚀 Full Stack Developer and SDE-focused engineer with hands-on experience building scalable web applications and AI-driven systems. Strong in React, Next.js, Node.js, Java, and DSA, with a passion for clean architecture, performance optimization, and real-world problem solving.
-
----
-
-## 🧑‍💻 About Me
-- 🎓 BE Computer Engineering (SPPU) | GPA: 8.28  
-- 💼 Web Developer Intern @ TechnoGrowth Software Solutions (6 weeks)  
-- 🔍 Interested in SDE / Full Stack / AI-integrated Web Roles  
-- 🧠 Strong in DSA, backend design, and frontend–backend coordination  
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**  
-Java · JavaScript (ES6+) · Python · SQL · HTML · CSS  
-
-**Frontend**  
-React.js · Next.js · Redux · Tailwind CSS · Bootstrap  
-
-**Backend**  
-Node.js · Express.js · Spring Boot  
-
-**Databases**  
-MongoDB · MySQL  
-
-**Auth & Security**  
-JWT Authentication  
-
-**AI & Cloud**  
-Gemini AI API · OpenAI API · Oracle Cloud (OCI Basics)  
-
-**Tools**  
-Git · GitHub · VS Code · Postman  
+Full Stack Developer and SDE-focused engineer with hands-on experience building scalable web applications and AI-driven systems. Strong in React, Next.js, Node.js, Java, and Data Structures & Algorithms, with a focus on clean architecture, performance optimization, and real-world problem solving.
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔹 AI-Powered Professional Profile Improvement Tool
-**Tech:** Next.js, React, Spring Boot, JWT, Gemini AI API  
-- Evaluated 20+ LinkedIn & GitHub profiles using AI analysis  
-- Generated skill-gap insights and keyword suggestions  
-- Reduced scoring latency by ~12–15% via backend optimization  
-
-📌 *Focus:* AI integration · Secure APIs · Scalable architecture  
+🛠 Next.js · React · Spring Boot · JWT · Gemini AI API  
+- AI-based evaluation of LinkedIn & GitHub profiles  
+- Generates skill-gap insights and keyword suggestions  
+- Optimized backend scoring with reduced latency  
 
 ---
 
 ### 🔹 Job Portal Application (MERN)
-**Tech:** MongoDB, Express, React, Node.js, JWT, Multer, GridFS, Tailwind CSS  
+🛠 MongoDB · Express · React · Node.js · JWT · Multer · GridFS · Tailwind CSS  
 - Complete hiring workflow: job posting → filtering → applications  
-- Resume upload using Multer + GridFS (25% faster file handling)  
-- Clean UI improving engagement by ~20%  
-
-📌 *Focus:* Real-world CRUD · Auth flows · File handling  
+- Resume upload using Multer + GridFS  
+- Improved UI clarity and user engagement  
 
 ---
 
 ### 🔹 AI-Powered Blog Application
-**Tech:** MERN, JWT, Gemini AI API, Tailwind CSS  
-- AI-assisted blog creation (~30% faster content generation)  
+🛠 MERN · JWT · Gemini AI API · Tailwind CSS  
+- AI-assisted content creation for faster publishing  
 - Search, tagging, and sentiment indicators  
-- Optimized React rendering (15–18% faster load time)  
+- Optimized React rendering and lazy loading  
 
-📌 *Focus:* Performance optimization · AI-driven UX  
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36"/>
+
+---
+
+### 🌐 Frontend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="36"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="36"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="36"/>
+
+---
+
+### 🧩 Backend & Databases
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="36"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="36"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36"/>
+
+---
+
+### 🤖 AI & Cloud
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="36"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="36"/>
 
 ---
 
 ## 💼 Experience
 
 **Web Developer Intern — TechnoGrowth Software Solutions, Pune**  
-- Improved MERN application load performance by ~20%  
-- Built secure JWT-based authentication supporting 100+ sessions  
+- Improved MERN application load performance through API restructuring  
+- Implemented secure JWT-based authentication  
 - Followed Git best practices with structured branching & PR reviews  
-- Collaborated with a 4-member engineering team  
+- Collaborated in a small engineering team  
 
 ---
 
-## 📚 Core Strengths
-- Data Structures & Algorithms (Java)  
-- REST API Design  
-- Authentication & Authorization  
-- Performance Optimization  
-- Clean, maintainable code  
+## 🎓 Education & Certifications
+
+### 🎓 Education
+**Bachelor of Engineering – Computer Engineering**  
+Smt. Kashibai Navale College of Engineering, Pune (SPPU)  
+GPA: **8.28 / 10**  
+
+### 📜 Certifications
+- Oracle Cloud Infrastructure – **Generative AI Professional**  
+- Oracle Cloud Infrastructure – **Foundations Associate**  
+- Alpha – **DSA with Java** (Apna College)
 
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: sujalpapalkar15@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/sujal-papalkar-663991338/  
-- 🧑‍💻 GitHub: https://github.com/sujalpapalkar  
-- 📍 Pune, India  
+<a href="https://www.linkedin.com/in/sujal-papalkar-663991338/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/sujalpapalkar" target="_blank">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="32" style="filter: invert(1);"/>
+</a>
+
+📧 **Email:** sujalpapalkar15@gmail.com  
+📍 **Location:** Pune, India  
 
 ---
 
-⭐ *Open to SDE / Full Stack opportunities and meaningful collaborations*
+⭐ *Open to Full Stack / SDE roles and meaningful collaborations*
