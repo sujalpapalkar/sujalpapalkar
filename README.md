@@ -90,7 +90,7 @@ GPA: **8.28 / 10**
 ---
 
 ## 📫 Connect With Me
-<a href="https://www.linkedin.com/in/sujal-papalkar-663991338/" target="_blank">
+<a href="https://www.linkedin.com/in/sujalpapalkar" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32"/>
 </a>
 &nbsp;&nbsp;
